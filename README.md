@@ -1,7 +1,3 @@
 # git-demo
 <br>
-from local
-
-<br>
-
-vivek
+from local main
